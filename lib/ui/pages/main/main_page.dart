@@ -6,7 +6,7 @@ import 'package:movieapp_flutter/ui/router.gr.dart';
 import 'package:salomon_bottom_bar/salomon_bottom_bar.dart';
 
 import '../../widgets/stateless/drawer/custom_drawer.dart';
-import '../actors_list/actors_list_page.dart';
+import '../actors/actors_page.dart';
 import '../home/home_page.dart';
 
 class MainPageView extends StatefulWidget {

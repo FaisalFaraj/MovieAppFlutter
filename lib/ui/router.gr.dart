@@ -15,13 +15,13 @@ import 'package:auto_route/auto_route.dart' as _i11;
 import 'package:flutter/material.dart' as _i12;
 
 import '../core/models/movie/movie.dart' as _i13;
-import 'pages/actors_list/actors_list_page.dart' as _i6;
+import 'pages/actors/actors_page.dart' as _i6;
 import 'pages/comments/comments_page.dart' as _i9;
 import 'pages/favorites_movies/favorites_movies_page.dart' as _i10;
 import 'pages/home/home_page.dart' as _i4;
 import 'pages/main/main_page.dart' as _i1;
 import 'pages/movie/movie_page.dart' as _i7;
-import 'pages/onboarding_page/onboarding_page.dart' as _i2;
+import 'pages/onboarding/onboarding_page.dart' as _i2;
 import 'pages/search/search_page.dart' as _i5;
 import 'pages/settings/settings_page.dart' as _i8;
 import 'pages/startup/start_up_page.dart' as _i3;

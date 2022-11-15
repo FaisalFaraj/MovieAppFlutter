@@ -5,9 +5,9 @@ import 'pages/home/home_page.dart';
 import 'pages/main/main_page.dart';
 import 'pages/search/search_page.dart';
 
-import 'pages/actors_list/actors_list_page.dart';
+import 'pages/actors/actors_page.dart';
 import 'pages/movie/movie_page.dart';
-import 'pages/onboarding_page/onboarding_page.dart';
+import 'pages/onboarding/onboarding_page.dart';
 import 'pages/settings/settings_page.dart';
 import 'pages/startup/start_up_page.dart';
 
