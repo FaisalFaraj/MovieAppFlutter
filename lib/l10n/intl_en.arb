@@ -1,0 +1,46 @@
+{
+  "@@locale": "en",
+  "pageHomeTitle": "مرحباً {firstName}",
+  "@pageHomeTitle": {
+    "description": "هذا فقط مجرد مثال لشرح قدرة الترجمة على وضع نصوصو بديلة ",
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+
+  "rate": "Rate",
+  "genre": "Genre",
+  "cast": "Cast",
+  "similar": "Similar",
+  "movies": "Movies",
+  "actors": "Actors",
+  "trending": "Trending",
+
+
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "home": "Home",
+  "dark_mode": "Dark Mode",
+  "language": "Language",
+  "chose_language": "Chose Language",
+  "settings_view_notification": "Notifications",
+  "settings_view_about": "About",
+  "about_app": "About",
+  "settings": "Settings",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "user": "User",
+  "version": "Version",
+  "about_developers": "About Developers",
+
+
+  "empty_list": "Empty list",
+  "exception_indicator_try_again": "Try again",
+  "generic_error_indicator_error_while_fetching_data": "An error occurred while fetching data",
+  "not_internet_connection": "An error occurred while connecting to the Internet Please check the connection",
+  "no_connection_indicator_no_connection": "No connection",
+  "no_connection_indicator_try_again_later": "Please try again later",
+  "not_authorized_indicator_you_need_to_login_to_see_this_page": "To be able to see the contents of this page, you must be logged in",
+  "not_authorized_indicator_login_register": "Register/Login"
+  
+}

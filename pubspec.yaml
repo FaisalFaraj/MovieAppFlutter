@@ -1,0 +1,109 @@
+name: movieapp_flutter
+description: movie app description
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+scripts:
+  build: flutter packages pub run build_runner build --delete-conflicting-outputs
+  watch: flutter packages pub run build_runner watch --delete-conflicting-outputs
+  intl: flutter gen-l10n
+  dependency_validator: flutter pub run dependency_validator
+
+dependencies:
+  auto_route: ^5.0.1
+ 
+  cached_network_image: ^3.2.1
+  carousel_slider: ^4.1.1
+  connectivity_plus: ^2.3.9
+  dio: ^4.0.0
+  dropdown_button2: ^1.8.2
+  equatable: ^2.0.5
+  favorite_button: ^0.0.4
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_offline: ^2.1.0
+  flutter_onboarding_slider: null
+  flutter_phoenix: ^1.1.0
+  flutter_reaction_button: null
+  flutter_svg: ^1.0.3
+  get_it: ^7.2.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  hive_generator: ^1.1.3
+  infinite_scroll_pagination: ^3.0.1
+  intl: ^0.17.0
+  json_annotation: ^4.7.0
+  multi_select_flutter: ^4.1.2
+  path_provider: ^2.0.1
+  random_avatar: null
+  rate: ^0.0.1
+  salomon_bottom_bar: ^3.3.1
+  settings_ui: ^2.0.2
+  
+  sizer: ^2.0.15
+  sliding_up_panel: ^2.0.0+1
+  tab_indicator_styler: ^2.0.0
+  toggle_list: ^0.1.0
+  twemoji: null
+  url_launcher: ^6.1.5
+  youtube_api: ^1.0.4
+
+dev_dependencies:
+  dependency_validator: ^3.0.0
+  # analyzer: ^4.3.0
+  auto_route_generator: ^5.0.2
+  build_runner: ^2.1.7
+ 
+  # flutter_launcher_icons: ^0.9.0
+  
+  json_serializable: ^6.4.1
+  logger: ^1.0.0
+
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  remove_alpha_ios: true
+  # image_path_android: "assets/images/logo_ios.png"
+  # image_path_ios: "assets/images/logo_ios.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  generate: true
+  uses-material-design: true
+  assets:
+    # - assets/fonts/
+    - assets/images/
+  
+
+  # fonts:
+  #   - family: Tajawal
+  #     fonts:
+  #       - asset: assets/fonts/Tajawal-Regular.ttf
+
+flutter_intl:
+  enabled: true # Required. Must be set to true to activate the plugin. Default: false
+  main_locale: ar
+  class_name: AppLocalizations # Optional. Sets the name for the generated localization class. Default: S
+
+
+# dart_dependency_validator.yaml
+
+# Set true if you allow pinned packages in your project.
+allow_pins: true
+# Exclude one or more paths from being scanned. Supports glob syntax.
+exclude:
+  - "app/**"
+# Ignore one or more packages.
+ignore:
+  - analyzer
