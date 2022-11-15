@@ -44,7 +44,8 @@ class _MovieViewState extends State<MoviePageView> {
 
   var favorites_box = locator<HiveService>().favorites_box!;
 
-  YoutubeAPI ytApi = YoutubeAPI('AIzaSyBY1zZmZr96jWo8AEOE-AMp_pZR78rBkwE');
+  //youtube api key
+  YoutubeAPI ytApi = YoutubeAPI('');
   List<YouTubeVideo> videoResult = [];
 
   final MoviesListBloc _newsBloc = MoviesListBloc();
