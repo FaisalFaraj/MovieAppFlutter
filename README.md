@@ -37,10 +37,10 @@
 </p>
 
 
-<img src="screenshots/1.gif" width="200" >
-<img src="screenshots/2.gif" width="200">
-<img src="screenshots/3.gif" width="200">
-<img src="screenshots/4.gif" width="200">
+<img src="screenshots2/1.gif" width="200" >
+<img src="screenshots2/2.gif" width="200">
+<img src="screenshots2/3.gif" width="200">
+<img src="screenshots2/4.gif" width="200">
 <br>
 
 ## :dart: About ##
