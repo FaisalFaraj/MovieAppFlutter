@@ -35,8 +35,11 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/FaisalFaraj" target="_blank">Author</a>
 </p>
+
+### ScreenShots
+
 <br>
-###ScreenShots
+
 <img src="screenshots/home.jpg" width="150">
 <img src="screenshots/home_2.jpg" width="150">
 <img src="screenshots/movie_2.jpg" width="150">
