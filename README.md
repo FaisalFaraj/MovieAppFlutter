@@ -35,13 +35,27 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/FaisalFaraj" target="_blank">Author</a>
 </p>
+<br>
+###ScreenShots
+<img src="screenshots/home.jpg" width="150">
+<img src="screenshots/home_2.jpg" width="150">
+<img src="screenshots/movie_2.jpg" width="150">
+<img src="screenshots/movie.jpg" width="150">
+<img src="screenshots/comments.jpg" width="150">
+<img src="screenshots/comments_2.jpg" width="150">
+<img src="screenshots/actors.jpg" width="150">
+<img src="screenshots/drawer.jpg" width="150">
+<img src="screenshots/favorites.jpg" width="150">
+<img src="screenshots/search_movies.jpg" width="150">
+<img src="screenshots/search_actors.jpg" width="150">
 
-
-<img src="screenshots2/1.gif" width="200" >
+</br>
+<br>
+<img src="screenshots2/1.gif" width="200">
 <img src="screenshots2/2.gif" width="200">
 <img src="screenshots2/3.gif" width="200">
 <img src="screenshots2/4.gif" width="200">
-<br>
+</br>
 
 ## :dart: About ##
 
